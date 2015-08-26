@@ -1,2 +1,2 @@
 # slvc
-Simple Linear Version Control
+Simple Linear Version Control for document oriented databases
